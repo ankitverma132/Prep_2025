@@ -1,0 +1,52 @@
+HTML CSS BootStrap JQuery Ajax : 1.45 hours
+
+
+Internet Sevice Provider(ISP)
+Doctype in HTML
+Unordered list and Ordered list
+Anchor tag
+Semantic and Non Semantic tag in HTML
+Block vs Inline elements
+Forms tag in HTML
+Fevicon and Meta tag in HTML
+
+
+CSS Units : px rem vh
+Margin and Padding
+Display Property : Block and Inline
+Position Property: https://www.codewithharry.com/tutorial/css-positioning?gad_source=1&gad_campaignid=22463521644&gbraid=0AAAAAqQsM_11Hgyqs55mUYZqbCvZwDgQF&gclid=Cj0KCQiAjJTKBhCjARIsAIMC449905CGAs8vHuyuA-YZOO2QrjXbviqubuQmk8EoTWtBtIsGkNgiADcaAvOEEALw_wcB
+Box Model
+Min Max Property
+Overflow Property
+Adding Style using CSS & Preference of Rule
+CSS Selectors 
+Grouping and Nesting Selectors
+Flex Model
+Pseudo classes: hover, nth child property, visited, active, first-letter, first-line, before, after
+Difference between pseudo element and pseudo classess
+Media Query
+!important
+transform property: rotate, translate
+transition property
+visibility hidden vs display none vs opacity 0
+
+Bootstrap Breakpoint: xs sm md lg xl
+BootStrap Grid Systems
+Bootstrap Components: Button, Cards, Drop downs, Modal, Nav, Navbar
+
+JQuery
+jQuery Selectorss
+Manipulating Element: .html(), .text(), .width(), .hight(), .css(), .addClass(), .removeClass()
+Event handling using jQuery: .click(), .on(), .ready()
+jQuery Effects: hide/show, fade, slide, slideUp/slideDown, callback
+jQuery Traversing
+
+
+Ajax
+Http
+Http methods
+Http codes
+API(Application Programming Interface)
+JSON.stringify() JSON.parse()
+
+

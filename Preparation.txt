@@ -1,0 +1,87 @@
+Preparation
+
+Mission 45
+
+Paralel stream -> 3 day   https://www.youtube.com/watch?v=J7YqYlaev7g&t=664s & https://www.baeldung.com/java-when-to-use-parallel-stream
+
+Compatible future -> 5 days  https://www.youtube.com/watch?v=GJ5Tx43q6KM&t=684s or https://www.youtube.com/watch?v=ZfWRVvW4JuI&list=PL7ExA8hccMY29YWunJP_wbrfaHDuJBrh7&index=10
+
+Spring data JPA -> https://www.youtube.com/watch?v=XszpXoII9Sg&t=3059s
+Metaspace -> https://www.youtube.com/watch?v=g_J1RAS6Pjs&list=WL&index=1&t=393s
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+MicroServices Patterns are Important to add on -> 2.  https://www.youtube.com/watch?v=aOen1-pQLZg&list=PLVz2XdJiJQxw1H3JVhclHc__WYDaiS1uL
+
+Saga Pattern ->https://www.youtube.com/watch?v=WGI_ciUa3FE&t=2778s
+
+CQRS pattern-> https://www.youtube.com/watch?v=fzGZPf0FMao
+
+Oauth 2.0 -> 20 days  https://www.youtube.com/watch?v=tE5tpDIdEvY or https://www.youtube.com/watch?v=oRolZljP7kc&list=PLS1QulWo1RIZ-IvP8n2ArWXj4s6ch50T- or https://www.youtube.com/watch?v=4pnCVIKQBy0&list=PLk7v1Z2rk4hgbtM7JdPhk4lQUGjr82fUX
+
+Multithreading and concurrency improvement -> 1 month  https://www.youtube.com/watch?v=d3xb1Nj88pw&list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4&index=19
+
+DSA improvement -> 2 Month.    https://www.youtube.com/watch?v=4Zq2Fnd6tl0&list=PLtQWXpf5JNGJagakc_kBtOH5-gd8btjEW
+
+HLD Improvement(No new things but old better revision). -> 1
+
+LLD Improvement(No new things but old better revision) -> 1
+
+AWS Improvement(No new things but old better revision)  -> 1.5
+
+
+Dockr/Kubernetes : https://www.youtube.com/watch?v=VAmntTPebKE Or	
+
+Kafka ->
+
+Front-end:
+
+
+Html/Css :- 0.5
+Bootstrap/jQuery/ajax :- 0.5
+JavaScript :- 2
+React.js :- 2
+Redux :- 0.5
+Redux Saga(Middleware) :- 1
+
+Back-end:
+
+Core Java(Jvm Architecture, Oops concept, String, Exception handling, Inner classes, Multithreading & Synchronisation, Executor framework, Java collections, JDBC) :- 10
+Servlet :- 0.5
+JSP :- 0.5
+Sprint Core :- 1
+Sprint MVC :- 1
+Sprint AOP :- 0.5
+Filter/Intercepter :- 0.5
+Spring Security :- 2
+Spring TX Management :- 0.5
+JPA :- 0.5
+Hibernate :- 1.5
+Spring JDBC Template :- 0.5
+Http/Rest(Http methods, headers, error codes, Rest principles, Concept of resources) :- 1
+Log4j :- 0.5
+Git :- 0.5
+Java 8(Functional Interface, Lambda expression, Method reference, Static & default method in interface, forEach(), Stream API, Collectors class, Optional class) :- 2
+SpringBoot :- 1
+Microservices :- 1
+RabbitMQ :- 0.5
+Junit/Mockito :- 0.5
+ELK-Stack :- 0.5
+Hibernate Inheritance Mapping :- 0.5
+Compatible future and Parallel Stream
+Oauth 2.0 & Client Credential Flow
+
+Database:
+
+SQL :- 2
+
+Dev-Ops:
+
+Jenkins :- 3
+Docker :- 3
+AWS : 15
+
+Misc:
+
+Data Structures & Algorithms(Array, 2d-array, String, Recursion, Linked List, HashMap, Binary tree, Binary Search Tree, Dynamic programming, Graph, Java8, Priority Queue, Stack & Queue, TreeSet, Multithreading) :- 12
+HLD :- 7
+LLD :- 10

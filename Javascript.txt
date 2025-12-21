@@ -1,0 +1,41 @@
+JavaScript: 2.15 hours
+
+LocalStorage vs Session storage vs Cookie
+Acces history in JavaScript
+null vs undefined
+declaration vs definition
+Data type in JS
+How to break forEach loop in JS? -> every and some
+delete property in JS
+Callback function in JS
+this keyword in JS
+Prototype in JS
+Promises in JS
+Execution Context in JS
+Closure in JS
+Spread operator in JS
+Shallow vs Deep copy -> http://geeksforgeeks.org/javascript/what-is-shallow-copy-and-deep-copy-in-javascript/
+var vs let vs const
+Rest parameter
+== vs ===
+Type coercion in JS
+Static vs dyamic type language
+NaN in js
+typeOf Operator
+IIFE in JS
+Arrow function
+call, apply and bind in JS
+Pass by value and Pass by reference in JavaScript
+What is DOM
+splice vs slice function in js
+Closure real world example
+$(document).ready() vs window.load()
+New features in ES6
+Strict Mode in JS
+Timing events: setTimeOut, setInerval & clearInterval
+every() & some()
+Cookies
+Async Await
+
+
+
