@@ -1,0 +1,44 @@
+Multithreading & Synchronization : 4 hrs
+
+What is Multithreading
+What is thread
+Thread class
+Lifecycle of a thread
+How to create a thread
+Thread scheduler
+Sleep method
+can we call start method twice
+Can we call run method directlly
+join method
+isAlive method
+Name a thread
+currentThread method
+yield method
+Thread class va runnable interface
+Priority of thread
+Daemon Thread
+Thread pool in Java
+Thread group
+Java shutdown hook
+Java Runtime class
+Blocking Queue
+
+Synchronization
+Concept of loc in Java
+Synchronized method
+Synchronized block
+Deadlock
+Java thread communication
+wait, notify, notifyAll
+Wait vs sleep
+Interupting a thread
+Reentrant Monitoring
+Multithreading Probleams:
+	Producer consumer probleam
+	Blocing queue
+	Deadlock implementation
+	Print Series by mutiple thread
+	Print one after another
+	Print Thread sequentially
+
+

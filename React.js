@@ -1,4 +1,4 @@
-React.js
+React.js : 5 hrs
 
 React.js and its features
 Lifecycle methods of React
@@ -44,3 +44,33 @@ Running useEffect only once
 useEffect to perform clean up
 useEffect with incorrect dependency
 Fetching data using useEffect
+useContext hook
+reducer() method
+useReducer() hook
+useReducer with useContext hook
+fetching data using useReducer()
+useState vs useReducer
+useCallback hook
+useMemo hook
+useRef hook
+Custom hooks
+useDocumentTitle, useCounter, useInput hooks
+Memoization
+Error handling in react
+try/catch in react
+React router
+HOC
+String Interpolation
+Event bubbling vs Event handling
+CSS pre processor
+pseudo element nd pseudo classes
+Real dom vs vitual dom
+Controlled vs uncontrolled component
+Lazy loading 
+React App optimization techniques
+Create a promise that resolves after 5 sec
+
+
+
+
+

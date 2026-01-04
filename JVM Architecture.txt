@@ -1,0 +1,17 @@
+JVM Architecture: 20 min
+
+
+JVM, JRE & JDK
+Architecture of JVM: Classloader, Memory area and Execution engine
+
+
+
+JDBC: 1 hr
+
+What is JDBC
+Steps for JDBC connection
+Type of drivers
+Stored procedure
+Ref cursor
+Row Mapper
+Connecion polling

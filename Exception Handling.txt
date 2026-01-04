@@ -1,0 +1,21 @@
+Exception Handling: 1.15 hr
+
+What is exception handling
+Type of Exception in Java
+try-catch in java
+Multiple catch block
+Nested try block
+finally block
+In which cases finally will not run: system.exit(), any fatal error, in try{} block never ends/infinite loop
+Throw keyword
+Exception propogation
+Throws keyword
+throw s throws keyword
+Diff between final, finally & finalize
+Exception handling with method overriding
+Custom Exceptions
+Can you use try without catch block: Yes, you can use a try block without a catch block in Java,
+				provided it is followed by a finally block or is a try-with-resources statement. 
+Java 7 catch multiple exception
+try with resource
+How to create unchecked custom exception

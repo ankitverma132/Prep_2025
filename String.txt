@@ -1,0 +1,17 @@
+String: 1.15 hr
+
+What is string
+How to create string
+what is intern method: https://www.geeksforgeeks.org/java/interning-of-string/
+Why Strings are immutable?
+Why string class is final in java?
+Java String compare: equals, ==, compareTo, startsWith & endsWith
+String concatenation: Using +, concat method, join method, collectors joining method, String build & buffer append method, String format method
+Substring in Java
+String methods: charAt, length, contains, toUpperCase/toLowerCase, trim, intern, valueOf, replace, join method
+String buffer
+String builder
+Diff between string and string buffer
+How to create immutable class: https://www.geeksforgeeks.org/java/how-to-create-immutable-class-in-java/
+toString method
+Diff between final and immutable

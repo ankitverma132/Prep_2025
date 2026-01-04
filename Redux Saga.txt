@@ -1,0 +1,20 @@
+Redux Saga: 1.5 hours
+
+
+React Rudux flow
+Why Redux saga needed
+Redux saga setup
+yeild keyword
+Saga Effects:
+take
+takeEvery
+takeLatest
+takeLeading
+put
+call
+all
+fork
+cancel
+cancelled
+join
+race

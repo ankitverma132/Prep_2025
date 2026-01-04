@@ -1,7 +1,5 @@
 Preparation
 
-Mission 45
-
 Paralel stream -> 3 day   https://www.youtube.com/watch?v=J7YqYlaev7g&t=664s & https://www.baeldung.com/java-when-to-use-parallel-stream
 
 Compatible future -> 5 days  https://www.youtube.com/watch?v=GJ5Tx43q6KM&t=684s or https://www.youtube.com/watch?v=ZfWRVvW4JuI&list=PL7ExA8hccMY29YWunJP_wbrfaHDuJBrh7&index=10
@@ -31,11 +29,13 @@ AWS Improvement(No new things but old better revision)  -> 1.5
 
 Dockr/Kubernetes : https://www.youtube.com/watch?v=VAmntTPebKE Or	
 
+Spring data JPA
+SQL performance
+
 Kafka ->
 
+————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 Front-end:
-
-
 Html/Css :- 0.5
 Bootstrap/jQuery/ajax :- 0.5
 JavaScript :- 2
@@ -45,7 +45,7 @@ Redux Saga(Middleware) :- 1
 
 Back-end:
 
-Core Java(Jvm Architecture, Oops concept, String, Exception handling, Inner classes, Multithreading & Synchronisation, Executor framework, Java collections, JDBC) :- 10
+Core Java(Jvm Architecture, Oops concept, String, Exception handling, Multithreading & Synchronisation, Executor framework, Java collections, JDBC) :- 10
 Servlet :- 0.5
 JSP :- 0.5
 Sprint Core :- 1
@@ -67,21 +67,40 @@ RabbitMQ :- 0.5
 Junit/Mockito :- 0.5
 ELK-Stack :- 0.5
 Hibernate Inheritance Mapping :- 0.5
-Compatible future and Parallel Stream
-Oauth 2.0 & Client Credential Flow
+Compatible future and Parallel Stream :- 2 
+Oauth 2.0 & Client Credential Flow :- 2
 
 Database:
-
 SQL :- 2
 
 Dev-Ops:
 
-Jenkins :- 3
-Docker :- 3
-AWS : 15
+Jenkins :- 3 N
+Docker :- 3 No
+AWS : 15 No
 
 Misc:
 
-Data Structures & Algorithms(Array, 2d-array, String, Recursion, Linked List, HashMap, Binary tree, Binary Search Tree, Dynamic programming, Graph, Java8, Priority Queue, Stack & Queue, TreeSet, Multithreading) :- 12
+Data Structures & Algorithms(Array, 2d-array, String, Recursion, Linked List, HashMap, Binary tree, Binary Search Tree, 
+	Dynamic programming, Graph, Priority Queue, Stack & Queue, TreeSet, Multithreading) :- 12
+Java 8 Probleams:- 2
 HLD :- 7
 LLD :- 10
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+DSA
+https://leetcode.com/studyplan/top-interview-150/
+
+System design:
+https://medium.com/@saiteja.dasari123/interview-experience-sde-2-at-amazon-accepted-offer-57655fab76b8
+
+LLD:
+https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&ab_channel=Concept%26%26Coding-byShrayansh
+
+HLD 
+Gaurav Sen playlist: https://www.youtube.com/watch?v=SqcXvc3ZmRU&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&ab_channel=GauravSen
+Shrayansh Jain playlist: https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7&ab_channel=Concept%26%26Coding-byShrayansh
+CodeKarle playlist: https://www.youtube.com/watch?v=3loACSxowRU&list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3&ab_channel=codeKarle

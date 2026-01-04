@@ -1,0 +1,89 @@
+Collections in Java : 4 hr
+
+Collection framework
+Collection Hierarchy
+Iterable interface
+Collection interface
+Arraylist
+How to iterate a arraylist
+How to iterate arraylist in reverse order
+Sorting a arraylist
+Storing only unique item in arraylist
+LinkedList
+How to iterate linkedlist in reverse order
+Arraylist vs LinkedList
+peek and poll methods
+List interface
+ListIterator
+Vector
+Vector vs arraylist 
+HashSet
+List vs Set
+Storing premitive and user defined class object in HashSet
+LinkedHashSet
+Treeset
+Storing User defined object in treeset
+HashSet vs LinkedHashSet vs Treeset
+Java Queue Interface
+Priority Queue class
+Deque interface
+ArrayDeque Interface
+Map Interface
+Map.Entry Interface
+Hashmap Class
+Internal working of hashmap
+Hahmap update in Java 8
+Linkedhashmap
+TreeMap
+Hahmap vs TreeMap
+Hashmap vs Linkedhashmap vs TreeMap
+HashTable class
+Different between Hashmap & Hashtable
+Enumset
+Enummap
+Collections class
+Comparable class
+Comparator interface
+Comparable vs comparator iterface
+Properties class
+Java Stack class
+Hashmap vs ConcurrentHashmap
+ConcurrentHashmap vs Synchronized hashmap
+Concurrent modification exception
+Iterator vs ListIterator
+How to iterate over a map
+Fail fast and fail safe iterator
+How set maintain uniqueness
+How to store element in descending order in TreeSet and TreeMap
+How to maintain uniqueness in Arraylist
+Hashmap vs Weak hashmap
+How Linkedhashmap works inernally
+ConcurrentHashmap Internal working
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

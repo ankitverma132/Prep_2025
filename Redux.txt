@@ -1,0 +1,14 @@
+Redux: 1.5 hour
+
+
+What is Redux
+3 principles of redux
+What is action, reducers & store
+What is middleware
+Async action in redux
+Redux thunk middleware
+React-Redux setup
+Connect function
+Redux with hooks
+Logge middleware
+Redux devtool extension

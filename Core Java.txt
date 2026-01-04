@@ -1,0 +1,60 @@
+Core Java: 4.30 hrss
+
+Java Generics
+Generic Class
+Generic Method
+Wildcards: Upperbound, lowerbound & No bound
+Naming convention
+Java packages
+Static imports
+Scope and visibility
+Access modifiers
+Final keyword
+this keyword
+super keyword
+static keyword
+constructor
+Wrapper classes
+Methods of object class
+What is singelton class
+Marker inteface: Cloneble & serializable
+Anonymous Inner class
+Hashcode and equals method & contract between them
+Overriding equals method
+What if override only hashcode or equals not both
+Enum in Java
+Advantages of Encapsulation/sette-getter methods
+Java Typecasting
+Garbage collection in java
+Type of Garbage colletors in Java
+Overloading and overriding in static method
+classpath in Java
+Primitive and non-primitive data type
+Call stack
+Covarient return type
+Dependency inversion principle
+Can we ovverride properties in Java
+How to override hashcode method in Java
+Best way to implement singelton class
+Double check locking for singelton class : https://medium.com/@alxkm/java-double-check-locking-pattern-3f8782e9d01e
+Default iplementation of hashcode, equals & toString methods
+Transient keyword
+Cohesion in oops
+Shallow copy and deep copy
+Volatile keyword
+Volatile vs Synchronizaion
+What is cors origin
+OOPS Concept : Object and class, Abstraction, Encapsultion, Inheritance, Polymorphism
+Aggregation in Java
+Inheritance in Java
+What if 2 implemented inerface have same method : https://www.geeksforgeeks.org/java/java-and-multiple-inheritance/
+Method Overloading: https://www.tpointtech.com/method-overloading-in-java
+Method overriding: https://www.tpointtech.com/method-overriding-in-java
+Static and dynamic data binding: https://www.tpointtech.com/static-and-dynamic-binding-in-java
+Instance of keyword: https://www.tpointtech.com/downcasting-with-instanceof-operator
+Association, aggregation and composition: https://www.geeksforgeeks.org/java/association-composition-aggregation-java/
+Interface in Java
+Abstract class in Java
+Difference between Interface and abstract class
+Call by value and call by reference in Java : https://www.tpointtech.com/call-by-value-and-call-by-reference-in-java
+Solid Principles
