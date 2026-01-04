@@ -1,0 +1,15 @@
+Executor Service: 1hr
+
+Executor Service Framework
+SingleThreadExecutor
+FixedThreadPool
+Returnning a value from thread : Callable interface
+Submit method
+Future Object
+invokeAll method
+invokeAny method
+CachedThreadPool
+Scheduled Executor
+Future cancel method
+Reentrant lock : https://medium.com/@AlexanderObregon/javas-reentrantlock-lock-method-explained-41ace8b9eec7 
+	& https://www.geeksforgeeks.org/java/reentrant-lock-in-java/
