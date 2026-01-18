@@ -1,0 +1,10 @@
+JPA: 30 min
+
+What is JPA
+JPA ORM
+What is Entity
+Dependencies for POM
+XML Configuration for JPA
+What is entity manager
+Steps to persist an entity onject
+Example for steps

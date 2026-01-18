@@ -1,0 +1,7 @@
+Log4j: 
+
+What is log4j
+pom dependencies for log4j
+Components: logger object, appender and layout
+Logging level
+Tips to use log4j

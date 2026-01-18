@@ -76,8 +76,8 @@ SQL :- 2
 Dev-Ops:
 
 Jenkins :- 3 N
-Docker :- 3 No
-AWS : 15 No
+Docker :- 3 N
+AWS : 15 N
 
 Misc:
 

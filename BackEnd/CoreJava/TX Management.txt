@@ -1,0 +1,12 @@
+Transaction Management: 45 min
+
+What is transaction
+XML configuration to enable tx in spring
+@Transactional
+Transaction Attribute
+	Propogation
+	rollbackfor
+	norollbackfor
+	readOnly
+	Isolation level
+	

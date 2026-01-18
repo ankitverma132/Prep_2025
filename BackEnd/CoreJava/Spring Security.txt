@@ -1,0 +1,29 @@
+Spring Security:
+
+What is spring security and configs to enable it.
+Principal & logout functionality
+Spring mvc + spring security
+AbstractSecurityWebApplicationInitializer
+Create Users and password encoders
+PasswordEncoder interface
+Password encoders: Bcrypt, Scrypt, NoOp
+Creating password encoders
+encode, matches & upgradeEncoding methods
+What is principal
+Basic authentication vs form authentication
+UserNamePassword & Basic Authentication filter
+Authentication object
+anyRequest, authenticated & other methods
+denyAll
+permitAll
+antMatchers
+Implementing logout
+Role based authentication
+hasAuthority
+403 forbidden implementation for error page
+Track logged in user
+Authentication and principal inerfaces
+
+
+
+

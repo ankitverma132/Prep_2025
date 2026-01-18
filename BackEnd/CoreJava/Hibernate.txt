@@ -1,0 +1,30 @@
+Hibernate: 1:45
+
+What is hibernate and its advantages
+Hibernate architecture
+pom values for hibernate
+hibernate configuration file
+Steps to save a object using hibernate
+Show SQL Propety
+Annotations
+Fetching data using hibeernate
+Embeddable and embedded
+Mapping relationship theory
+Fetch eager and lazy
+Hibernate Caching
+First level and second level cache
+Configuring second level cache
+2nd level cache practicle
+Cache strategy
+Hibernate second level cache with query
+Hibernate query language(HQL)
+Specify variable in query
+Use sql in hibernate
+Hibernate persistence life cycle
+Pesistence life cycle example
+Get vs load
+Hibernate transaction management
+When to load over get
+Interacting with multiple db in hibernate
+N+1 probleam hibernate
+Hibernate Validators

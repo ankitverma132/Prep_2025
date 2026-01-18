@@ -1,0 +1,37 @@
+Spring Core: 
+
+What is Spring core
+IOC and DI Priciple
+What is Maven
+How to install maven in windows
+What is maven repositories
+Maven pom.xml file
+Dependecies in pom
+Creating Java project using maven
+Application context
+Implementations of Application context interface
+XML file defination for Beans
+What is Beans
+Annotaion based configuration
+@Component & component scan
+Bean property: property tag
+Java Bean class
+Dependency Injection using constructor
+Setter injection vs Constructor injection
+Auowired annotation
+Configure spring app using annotation only
+@configuration & @Bean
+Inject bean using app configuration
+What if there is ambiguity: primary ad Qualifier annotations
+What are bean scopes
+@controller vs @restcontroller
+Singelton vs protype bean
+@service and @repository
+@primary vs @autowire
+Type of autowiring in spring
+Bean lifecycle
+Is singelton bean in spring is synchronized
+How to exclude a bean from loading
+@ControllerAdvice
+Java bean validation framework
+ 

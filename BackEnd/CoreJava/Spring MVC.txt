@@ -1,0 +1,30 @@
+Spring MVC
+
+What is MVC
+What is Spring MVC & Its features
+Front controller
+Role of dispatcher servlet
+Additional App config file in sprig mvc project
+InternalResourceViewResolver
+@controller
+@RequesrMapping
+@ResponseBody
+@GetMapping/@postMapping.....
+@PathVariable
+Model interface
+ModelView class in Spring mvc
+load on startup in web.xml
+HttpServletRequest Interface
+@RequestParam
+@RequestBody
+@Min & @Max
+@ModelAttribute
+Servlet life cycle
+Spring MVC achitecure
+Replacing servlet xml file wih Java class
+Replace web.xml file with Java file
+@EnableWebMvc & WebMvcConfigurationAdapter
+@RequestMapping vs @GetMapping
+@InitBinder
+Spring vs Springboot
+LooseCoupling vs tightcoupling

@@ -1,0 +1,18 @@
+Interceptor-Filter:
+
+What is interceptor
+Class to extend- HandlerIntercptorAdapter
+Methods of HandlerIntercptorAdapter
+Bean configuration for Interceptor
+
+
+What is filter
+What is filter chaning
+Interface to implement to create filter
+Filters general example
+Filters: RecSessionCotrollerFilter, TimeOutSessionHandler, AccessFilter
+
+
+
+
+

@@ -1,0 +1,21 @@
+Git: 30 min
+
+Setup command: git config
+Start project command: git init & git clone
+git add
+git commit and git push
+git diff
+git status
+git log
+git checkout
+git reset
+git rm
+git show
+git branch
+git merge
+git rebase
+diff between git merge and git rebase
+git remote add
+git push
+git fetch
+git pull
