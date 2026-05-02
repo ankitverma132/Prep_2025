@@ -99,3 +99,56 @@ HLD:
 Gaurav Sen playlist: https://www.youtube.com/watch?v=SqcXvc3ZmRU&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&ab_channel=GauravSen
 Shrayansh Jain playlist: https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7&ab_channel=Concept%26%26Coding-byShrayansh
 CodeKarle playlist: https://www.youtube.com/watch?v=3loACSxowRU&list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3&ab_channel=codeKarle
+
+
+
+FULL STACK + DEVOPS ROADMAP
+│
+├── FRONTEND
+│   ├── HTML/CSS (0.5)
+│   ├── Bootstrap / jQuery / AJAX (0.5)
+│   ├── JavaScript (2)
+│   ├── React.js (2)
+│   ├── Redux (0.5)
+│   └── Redux Saga (1)
+│
+├── BACKEND (JAVA)
+│   ├── Core Java (10)
+│   ├── Servlet (0.5)
+│   ├── JSP (0.5)
+│   ├── Spring Core (1)
+│   ├── Spring MVC (1)
+│   ├── Spring AOP (0.5)
+│   ├── Filters / Interceptors (0.5)
+│   ├── Spring Security (2)
+│   ├── Spring TX (0.5)
+│   ├── JPA (0.5)
+│   ├── Hibernate (1.5)
+│   ├── Spring JDBC (0.5)
+│   ├── REST API (1)
+│   ├── Log4j (0.5)
+│   ├── Git (0.5)
+│   ├── Java 8 (2)
+│   ├── Spring Boot (1)
+│   ├── Microservices (1)
+│   ├── RabbitMQ (0.5)
+│   ├── JUnit / Mockito (0.5)
+│   ├── ELK Stack (0.5)
+│   ├── Hibernate Inheritance (0.5)
+│   ├── CompletableFuture / Parallel Stream (2)
+│   └── OAuth2 (2)
+│
+├── DATABASE
+│   ├── SQL (2)
+│   └── SQL Performance (1)
+│
+├── DEVOPS
+│   ├── Docker (3)
+│   ├── Kubernetes (3)
+│   └── Azure (TBD)
+│
+└── MISC
+    ├── DSA (12)
+    ├── Java 8 Problems (3)
+    ├── HLD (7)
+    └── LLD (10)
