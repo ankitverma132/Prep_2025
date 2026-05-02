@@ -40,8 +40,8 @@ Redux Saga(Middleware) :- 1
 Back-end:
 
 Core Java(Jvm Architecture, Oops concept, String, Exception handling, Multithreading & Synchronisation, Executor framework, Java collections, JDBC) :- 10
-Servlet :- 0.5
-JSP :- 0.5
+Servlet :- 0.5 N
+JSP :- 0.5 N
 Sprint Core :- 1
 Sprint MVC :- 1
 Sprint AOP :- 0.5
@@ -59,7 +59,7 @@ SpringBoot :- 1
 Microservices :- 1
 RabbitMQ :- 0.5
 Junit/Mockito :- 0.5
-ELK-Stack :- 0.5
+ELK-Stack :- 0.5 N
 Hibernate Inheritance Mapping :- 0.5
 Compatible future and Parallel Stream :- 2 
 Oauth 2.0 & Client Credential Flow :- 2
